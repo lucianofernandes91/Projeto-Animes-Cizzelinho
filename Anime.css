@@ -1,0 +1,146 @@
+body{
+    background-color: tomato;
+}
+ul li {
+      list-style: none;
+
+
+}
+
+.header {
+    background-color: black;
+    background-size: 50px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.list,li{
+    display: flex;
+  justify-content: space-between;
+
+}
+li{
+    margin: 10px;
+    margin-right: 50px;
+    border: 10px solid red;
+    background-color: red;
+    border-radius: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+/*.div1 {
+    margin-left:1030px;;
+    border: 2px solid black;
+    height: 700px;
+    width: 300px;
+}
+.div2 {
+    border: 5px solid black;
+    height: 50px;
+    width: 300px;
+    margin-bottom: 550px;
+
+}*/
+
+
+.div1,.div2,.div3,.div4 {
+    border: 5px solid black;
+    height: 100px;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.div4 {
+    display: block;
+    height: 700px;
+    width: 300px;
+}
+
+.div1,.div2,.div3 {
+    height: 400px;
+}
+
+.div1 img:hover{
+    height: auto;
+
+}
+
+.div2 img:hover{
+    height: auto;
+
+}
+
+.div3 img:hover{
+    height: auto;
+
+}
+.div5 {
+    border: 2px solid black;
+    height: 235px;
+    width: 970px;
+    margin-top: 500px;
+    margin-left: 10px;
+
+}
+
+.div5,h1,p {
+    position: absolute;
+    background-color:
+   
+}
+
+h1,p {
+    text-align: center;
+   
+}
+
+.div7,.div8,.div9,.div10{
+    border: 6px solid red;
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin: 10px;
+
+}
+
+.div7,.div8,.div9,.div10{
+    border: 6px solid red;
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin: 10px;
+
+}
+
+   
+
+.div6 img:hover{
+    height: 400px;
+}
+.foo {
+    border: 2px solid black;
+    background-color: black;
+    margin-top: 1500px;
+    height: 100px;
+}
+p {
+    color: blanchedalmond;
+    text-align: justify;
+}
+
+
+
+.a{
+    text-align: end;
+    color: white;
+    font-size: large;
+
+}
+.b{
+    margin-left: 560px;
+    margin-top: 50px;
+
+}
